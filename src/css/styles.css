@@ -170,6 +170,7 @@ body {
 .feedback-form > label > input:focus,
 .feedback-form > label > textarea:focus {
   border: 1px solid #808080;
+  outline: none;
 }
 
 .feedback-form > button:hover {
